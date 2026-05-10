@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat /Users/jackjustus/Desktop/Git/trec-bu.github.io/.git/refs/heads/*)"
+    ]
+  }
+}
